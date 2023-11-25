@@ -1,0 +1,21 @@
+.had{
+    justify-content: space-between;
+background-color: rgb(101, 138, 238) ;
+}
+
+.tag{ 
+    display: inline-flex;
+    flex-wrap: nowrap;
+     padding-left: 75%; 
+    background-color: rgb(101, 138, 238) ;
+     position: relative;
+    left:100px;
+} 
+
+.product{
+    border: 1px solid grey;
+    width: 700px;
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+     }
